@@ -18,7 +18,8 @@ This project features:
 
 It's a modern e-commerce app with a smooth UX/UI design.
 
-##Demo link:-https://aaokharido-git-master-shinigxmi1s-projects.vercel.app
+## Demo link
+https://aaokharido-git-master-shinigxmi1s-projects.vercel.app
 
 ---
 
