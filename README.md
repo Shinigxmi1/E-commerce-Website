@@ -96,5 +96,3 @@ Once you have installed all the dependencies and set up your project, you're goo
 Thank you for visiting my GitHub and checking out the ** E-commerce App**. Please feel free to follow me on GitHub for more updates!
 
 
-This is now a fully formatted, well-structured `README.md` that looks professional and is ready to go! Let me know if you need anything else.
-````
